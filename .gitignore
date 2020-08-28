@@ -1,0 +1,6 @@
+# IDE exclusions
+/.idea/
+
+# Build exclusions
+/.gradle/
+/build/
